@@ -197,6 +197,11 @@ button{cursor:pointer;border:none;background:none;font-family:var(--font-body)}
 .city-card:hover a{color:var(--white)}
 .city-card--primary{background:rgba(232,84,26,.2);border-color:rgba(232,84,26,.4)}
 .city-card--primary a{color:var(--orange-light)}
+/* city-cards inside navy sections — ensure non-primary cards are visible */
+.section--navy .city-card{background:rgba(255,255,255,.1);border-color:rgba(255,255,255,.2)}
+.section--navy .city-card a{color:rgba(255,255,255,.9)}
+.section--navy .city-card:hover{background:var(--orange);border-color:var(--orange)}
+.section--navy .city-card:hover a{color:var(--white)}
 
 /* LARGE CITY CARDS (service areas page) */
 .city-primary-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:24px;margin-top:32px}
