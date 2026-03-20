@@ -1,29 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- CORE PAGES -->
 <url><loc>https://huntsvilleairducts.com/</loc><priority>1.0</priority></url>
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning/</loc><priority>0.9</priority></url>
 <url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning/</loc><priority>0.9</priority></url>
 <url><loc>https://huntsvilleairducts.com/service-areas/</loc><priority>0.8</priority></url>
 <url><loc>https://huntsvilleairducts.com/about/</loc><priority>0.7</priority></url>
 <url><loc>https://huntsvilleairducts.com/contact/</loc><priority>0.8</priority></url>
-<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-huntsville-al/</loc><priority>0.85</priority></url>
+<!-- AIR DUCT CITY PAGES (P1) -->
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-huntsville-al/</loc><priority>0.9</priority></url>
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning-madison-al/</loc><priority>0.85</priority></url>
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning-decatur-al/</loc><priority>0.85</priority></url>
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning-athens-al/</loc><priority>0.85</priority></url>
-<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-hampton-cove-al/</loc><priority>0.75</priority></url>
-<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-harvest-al/</loc><priority>0.75</priority></url>
-<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-meridianville-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-harvest-al/</loc><priority>0.85</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-meridianville-al/</loc><priority>0.85</priority></url>
+<!-- AIR DUCT CITY PAGES (P2) -->
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning-hazel-green-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-hampton-cove-al/</loc><priority>0.75</priority></url>
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning-owens-cross-roads-al/</loc><priority>0.75</priority></url>
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning-new-hope-al/</loc><priority>0.75</priority></url>
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning-gurley-al/</loc><priority>0.75</priority></url>
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning-new-market-al/</loc><priority>0.75</priority></url>
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning-toney-al/</loc><priority>0.75</priority></url>
-<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-moores-mill-al/</loc><priority>0.75</priority></url>
-<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-monrovia-al/</loc><priority>0.75</priority></url>
-<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-brownsboro-al/</loc><priority>0.75</priority></url>
-<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-triana-al/</loc><priority>0.75</priority></url>
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning-laceys-spring-al/</loc><priority>0.75</priority></url>
-<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-madison-cross-roads-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-moores-mill-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-triana-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-brownsboro-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-monrovia-al/</loc><priority>0.75</priority></url>
 <url><loc>https://huntsvilleairducts.com/air-duct-cleaning-hartselle-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-madison-cross-roads-al/</loc><priority>0.75</priority></url>
+<!-- DRYER VENT CITY PAGES (P1) -->
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-huntsville-al/</loc><priority>0.9</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-madison-al/</loc><priority>0.85</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-decatur-al/</loc><priority>0.85</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-athens-al/</loc><priority>0.85</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-harvest-al/</loc><priority>0.85</priority></url>
+<!-- DRYER VENT CITY PAGES (P2) -->
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-meridianville-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-hazel-green-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-hampton-cove-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-owens-cross-roads-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-new-hope-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-gurley-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-new-market-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-toney-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-laceys-spring-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-moores-mill-al/</loc><priority>0.75</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-north-alabama/</loc><priority>0.7</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-madison-county-al/</loc><priority>0.7</priority></url>
+<url><loc>https://huntsvilleairducts.com/dryer-vent-cleaning-limestone-county-al/</loc><priority>0.7</priority></url>
+<!-- HUNTSVILLE NEIGHBORHOOD PAGES (P2) -->
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-jones-valley-huntsville-al/</loc><priority>0.7</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-blossomwood-huntsville-al/</loc><priority>0.7</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-five-points-huntsville-al/</loc><priority>0.7</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-monte-sano-huntsville-al/</loc><priority>0.7</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-hampton-cove-neighborhood/</loc><priority>0.7</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-research-park-huntsville-al/</loc><priority>0.7</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-medical-district-huntsville-al/</loc><priority>0.7</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-downtown-huntsville-al/</loc><priority>0.7</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-twickenham-huntsville-al/</loc><priority>0.7</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-old-town-huntsville-al/</loc><priority>0.7</priority></url>
+<!-- NEIGHBORHOOD PAGES (P3) -->
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-weatherly-heights-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-village-of-providence-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-lake-forest-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-mayfair-piedmont-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-moores-mill-neighborhood/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-monrovia-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-green-mountain-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-hobbs-island-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-bell-mountain-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-north-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-rolling-hills-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-west-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-dallas-mills-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-thornblade-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-town-madison-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-triana-huntsville-al/</loc><priority>0.65</priority></url>
+<url><loc>https://huntsvilleairducts.com/air-duct-cleaning-redstone-arsenal-area-al/</loc><priority>0.65</priority></url>
 </urlset>
